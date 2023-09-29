@@ -1,0 +1,9 @@
+.table1 {
+    border-collapse: collapse;
+    color: white;
+}
+body {
+    /* background-color: rgb(215, 238, 83); */
+    /* background-image: url(../img/planet-earth-in-space.jpg) ; */
+    background: url(../img/planet-earth-in-space.jpg) center top / cover no-repeat;
+}
