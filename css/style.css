@@ -6,10 +6,6 @@ body {
 }
 
 /* КАРОЧЕ ТУТ У НАС СТИЛИ ДАААААААААА */
-html,
-body {
-  height: 100%;
-}
 body {
   font-size: 100%;
   line-height: 1.5;
@@ -54,12 +50,12 @@ thead td {
 .news {
   color: #fff;
   background-color: rgb(85,201,19);
-  padding: 60px;
+  padding: 30px;
   border-radius: 10%;
 }
 
 .news:hover {
-    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 4px 8px 1px rgba(0, 0, 0, 0.3);
 }
 
 
@@ -114,7 +110,7 @@ thead td {
 .modal_content {
   background-color: #fff;
   color: #000;
-  max-width: 800px;
+  max-width: 95%;
   padding: 30px;
   position: relative;
   opacity: 0;
@@ -134,5 +130,4 @@ thead td {
 .modal_title {
   font-size: 40px;
   margin: 0px 0px 1em 0px;
-
 }
