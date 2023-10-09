@@ -106,11 +106,15 @@
         <div class="modal_body">
             <div class="modal_content">
                 <a href="#header" class="modal_close">X</a>
-                <div class="modal_title">09:00 - 10:00 Профільний предмет (216 кабінет, підгрупа А; 212 кабінет, підгрупа Б)
-                                         10:10 - 11:10 Профільний предмет ()
-                                         11:20 - 12:20 Біологія ()
+                <div class="modal_title">
+                    <p>09:00 - 10:00 Профільний предмет (216 кабінет, підгрупа А; 212 кабінет, підгрупа Б)</p>
+                    <p>10:10 - 11:10 Профільний предмет (216 кабінет, підгрупа А; 212 кабінет, підгрупа Б)</p>
+                    <p>11:20 - 12:20 Біологія (308)</p>
+                    <p>12:30 - 13:30 Англійська мова (402 кабінет, група 23A2-2)</p>
                 </div>
-                <div class="modal_text"></div>
+                <div class="modal_text">
+                    <p class="center">Домашня робота</p>
+                </div>
             </div>
         </div>
     </div>
@@ -120,7 +124,12 @@
         <div class="modal_body">
             <div class="modal_content">
                 <a href="#header" class="modal_close">X</a>
-                <div class="modal_title"></div>
+                <div class="modal_title">
+                    <p>09:00 - 10:00 Всесвітння історія (304)</p>
+                    <p>10:10 - 11:10 Географія (215)</p>
+                    <p>11:20 - 12:20 Фізика (121)</p>
+                    <p>12:30 - 13:30 Англійська мова (402 кабінет, група 23A2-3)</p>
+                </div>
                 <div class="modal_text"></div>
             </div>
         </div>
@@ -131,7 +140,12 @@
         <div class="modal_body">
             <div class="modal_content">
                 <a href="#header" class="modal_close">X</a>
-                <div class="modal_title"></div>
+                <div class="modal_title">
+                    <p>09:00 - 10:00 Хімія (302)</p>
+                    <p>10:10 - 11:10 Математика (120)</p>
+                    <p>11:20 - 12:20 Зарубіжна література (120)</p>
+                    <p>12:30 - 13:30 Англійська мова (402 кабінет, група 23A2-2)</p>
+                </div>
                 <div class="modal_text"></div>
             </div>
         </div>
@@ -142,7 +156,11 @@
         <div class="modal_body">
             <div class="modal_content">
                 <a href="#header" class="modal_close">X</a>
-                <div class="modal_title"></div>
+                <div class="modal_title">
+                    <p>09:00 - 10:00 Фізика (121)</p>
+                    <p>10:10 - 11:10 Українська мова (215)</p>
+                    <p>11:20 - 12:20 ФЗВ (С3)</p>
+                </div>
                 <div class="modal_text"></div>
             </div>
         </div>
@@ -153,7 +171,11 @@
         <div class="modal_body">
             <div class="modal_content">
                 <a href="#header" class="modal_close">X</a>
-                <div class="modal_title"></div>
+                <div class="modal_title">
+                    <p>09:00 - 10:00 Фізика (121)</p>
+                    <p>10:10 - 11:10 Українська література (215)</p>
+                    <p>11:20 - 12:20 Захист України (116)</p>
+                </div>
                 <div class="modal_text"></div>
             </div>
         </div>
@@ -164,7 +186,12 @@
         <div class="modal_body">
             <div class="modal_content">
                 <a href="#header" class="modal_close">X</a>
-                <div class="modal_title"></div>
+                <div class="modal_title">
+                    <p>09:00 - 10:00 Профільний предмет (216 кабінет, підгрупа А; 212 кабінет, підгрупа Б)</p>
+                    <p>10:10 - 11:10 Профільний предмет (216 кабінет, підгрупа А; 212 кабінет, підгрупа Б)</p>
+                    <p>11:20 - 12:20 Математика (120)</p>
+                    <p>12:30 - 13:30 Математика (215)</p>
+                </div>
                 <div class="modal_text"></div>
             </div>
         </div>
